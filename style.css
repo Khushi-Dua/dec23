@@ -32,6 +32,10 @@
   align-items: center;
   height: 100vh;
   background: #000;
+  background-image: url('background1.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   transition: opacity 1.5s ease-in;
 }
 
@@ -40,6 +44,10 @@ body {
   overflow: hidden;
   font-family: "Roboto", serif;
   background: linear-gradient(135deg, black, #220033);
+   background-image: url('background1.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .carousel {
